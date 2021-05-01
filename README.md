@@ -1,4 +1,4 @@
-# Git Practice
+# Git Practice-1
 
 Practicing Git &amp; Github for collaboration.
 
@@ -7,16 +7,6 @@ Practicing Git &amp; Github for collaboration.
 Add your Github username below:
 
 - [x] serranoarevalo!
-- [x] Don
-- [x] kd!
-- [x] kangdongil
-- [x] dkssyddico
-- [x] confidential-nt
-- [x] Yangseungchan
-- [x] supermonkey
-- [x] eunoialim
-- [x] ystime25
-- [x] LEE Seungje
 - [x] rhaehf
 - [x] jkayk
 - [x] river
